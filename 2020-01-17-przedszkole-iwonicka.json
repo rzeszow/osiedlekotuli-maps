@@ -2,8 +2,12 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "type": "Feature",
-      "properties": {},
+      "type": "Feature",      
+      "properties": {
+        "fill": "#ddda3b",
+        "fill-opacity": 1,
+        "name":"ŻŁOBEK"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -34,7 +38,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "fill": "#da3b42",
+        "fill-opacity": 1,
+        "name":"PRZEDSZKOLE"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
